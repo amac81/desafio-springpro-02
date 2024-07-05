@@ -9,6 +9,10 @@ Projeto desenvolvido no curso Java Spring Professional - Devsuperior
 ##  Objetivos:
 
 - Aplicação dos conceitos de Modelo de domínio e ORM;
+- Implementação de entidades de domínio
+- Mapeamento objeto-relacional com JPA
+- Setup de projeto Spring Boot para banco H2
+- Seeding de base de dados H2
 
 # Tecnologias usadas
 - Java
