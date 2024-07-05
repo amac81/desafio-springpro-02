@@ -89,6 +89,10 @@ public class Atividade {
 		this.categoria = categoria;
 	}
 	
+	public Set<Participante> getParticipantes() {
+		return participantes;
+	}
+
 	public List<Bloco> getBlocos() {
 		return blocos;
 	}

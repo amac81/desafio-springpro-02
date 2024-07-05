@@ -63,6 +63,10 @@ public class Participante {
 		this.email = email;
 	}
 
+	public Set<Atividade> getAtividades() {
+		return atividades;
+	}
+
 	@Override
 	public int hashCode() {
 		return Objects.hash(id);
