@@ -1,7 +1,6 @@
 package pt.bitclinic.pt.desafio_springpro_02.entities;
 
 import java.util.HashSet;
-import java.util.Locale.Category;
 import java.util.Objects;
 import java.util.Set;
 
